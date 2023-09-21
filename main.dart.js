@@ -75212,9 +75212,9 @@ A.Uv.prototype={
 $0(){},
 $S:0}
 A.FY.prototype={
-I(a){return A.eC(B.aG,A.b([A.cR(A.j7("assets/images/globalization4.png",B.bk,B.kb),1/0,1/0),new A.cY(B.U,null,null,A.hR(B.Of,new A.Zr(a)),null)],t.p),B.J,B.aN)}}
+I(a){return A.eC(B.aG,A.b([A.cR(A.j7("assets/images/globalization4.png",B.bk,B.kb),1/0,1/0),new A.cY(B.U,null,null,A.hR(B.Oh,new A.Zr(a)),null)],t.p),B.J,B.aN)}}
 A.Zr.prototype={
-$0(){A.dl(this.a,!1,t.Q).b.vR(6,B.bP,B.dn)},
+$0(){A.dl(this.a,!1,t.Q).b.vR(1,B.bP,B.dn)},
 $S:0}
 A.H2.prototype={
 I(a){var s=null,r=A.oo("OUR MISSION"),q=A.cK(u.E,s,s,s,B.NU,B.ck,s),p=A.j7("assets/images/freq.jpg",B.bk,s)
@@ -75271,11 +75271,11 @@ return A.dl(a,!0,t.Q).c>=1024&&!0?A.xp(A.b([A.akb(this.Gd(),3),A.akb(new A.cY(B.
 Gd(){var s=null
 return A.DK(new A.bm(B.B3,A.dw(A.b([A.oo("Our Story"),B.bG,A.cK("Once upon a time, there was the COVID19, the lockdown & the internet! The owner of Frequency Media at that time was running the world from one place. He was sending his frequencies everywhere from that street near to the antena. and this is how FREQUENCY MEDIA was born.",s,s,s,B.NV,B.ck,s)],t.p),B.V,B.aZ,B.a8),s),s,s)},
 Qa(a){var s=this,r=null,q=A.j7("assets/images/mobile-empty.jpg",B.bk,B.ye),p=$.a2().CK(3,3,B.cZ),o=t.p
-return A.cR(A.eC(B.aG,A.b([q,A.afN(A.ajb(A.iN(r,r,B.r,A.aa(B.c.bg(127.5),0,0,0),r,r,r,r,r),p),B.J),A.cR(new A.bm(B.AS,A.dw(A.b([A.cR(A.j7("assets/images/freq.jpg",B.bk,r),r,100),s.rE(a,"Our Mission",3),s.rE(a,"Our Values",2),s.rE(a,"Our Services",4),s.rE(a,"Our Clients",5),s.rE(a,"Our Office",6),A.hR(B.Oh,new A.a4N(a))],o),B.V,B.at,B.bD),r),r,1/0)],o),B.J,B.aN),428,314)},
+return A.cR(A.eC(B.aG,A.b([q,A.afN(A.ajb(A.iN(r,r,B.r,A.aa(B.c.bg(127.5),0,0,0),r,r,r,r,r),p),B.J),A.cR(new A.bm(B.AS,A.dw(A.b([A.cR(A.j7("assets/images/freq.jpg",B.bk,r),r,100),s.rE(a,"Our Mission",3),s.rE(a,"Our Values",2),s.rE(a,"Our Services",4),s.rE(a,"Our Clients",5),s.rE(a,"Our Office",6),A.hR(B.Of,new A.a4N(a))],o),B.V,B.at,B.bD),r),r,1/0)],o),B.J,B.aN),428,314)},
 rE(a,b,c){var s=null,r=A.dl(a,!0,t.Q).k9(7.4,5,7.4)
 return new A.bm(new A.am(0,r,0,r),A.a5c(A.cK(b.toUpperCase(),s,s,s,A.cS(s,s,B.k,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,3,s,s,s,s,s,s),s,s),new A.a4M(a,c),s),s)}}
 A.a4N.prototype={
-$0(){A.dl(this.a,!1,t.Q).b.vR(0,B.bP,B.dn)},
+$0(){A.dl(this.a,!1,t.Q).b.vR(8,B.bP,B.dn)},
 $S:0}
 A.a4M.prototype={
 $0(){A.dl(this.a,!1,t.Q).b.vR(this.b,B.bP,B.dn)},
